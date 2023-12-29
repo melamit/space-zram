@@ -1,0 +1,6 @@
+id=space_zram
+name=Space ZRAM
+version=0.1
+versionCode=1
+author=@melamit
+description=Space ZRAM Module. Customize your zram settings
