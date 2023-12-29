@@ -1,5 +1,5 @@
 # Space ZRAM Module
-Currently settings zram to 3G
+Currently sets zram to 3G
 
 ## TODO
 - [x] Initialize module
