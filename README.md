@@ -8,5 +8,5 @@ Currently settings zram to 3G
 
 ### Credits 
 Thanks to @d1fakt & @DESIRE_TM
-for original code. And Magisk
+for original code. <br>And Magisk
 Module Template for snippets
